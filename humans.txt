@@ -1,0 +1,26 @@
+/* TEAM */
+    Chef: Gregorio Montero
+    Organization: INIA (www.inia.es)
+    From: Madrid, Spain
+
+    Researcher: Eduardo López
+    Organization: INIA
+    From: Madrid, Spain
+
+    Researcher: Rafael Alonso
+    Organization: SORBUS Medio Ambiente
+    From: Segovia, Spain
+
+    Lead Developer: Fernando Cavero
+    Twitter: @SinonimoDLucro
+    From: Madrid, Spain
+    
+/* THANKS */
+    MozSprint 16 Contributor: M. Isabel Muñoz
+    Twitter: @teanocrata
+    Location: Madrid, Spain
+
+    MozSprint16 Contributor: Antonio J. Padial
+    Organization: INIA
+    Twitter: @ajspadial
+    Location: Madrid, Spain
