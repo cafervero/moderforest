@@ -5,7 +5,7 @@ ModERFoRest is composed by three modules <em>(SDM: Species Distribution Modeling
 
 ModERFoRest uses Qt C++ libraries in order to be platform agnostic. Nevertheless, only project files for GNU/Linux and MS Windows are available. If you are a Mac OS developer and are interested in forest repopulation, please take a look at [CONTRIBUTING](CONTRIBUTIN.md) file and join us!
 
-## moderforest modules
+## ModERFoRest modules
 ### SDM : Species Distribution Modeling
 We are working on it. Check it back soon.
 
@@ -16,7 +16,7 @@ We are working on it. Check it back soon.
 We are working on it. Check it back soon.
 
 
-## moderforest tools
+## ModERFoRest tools
 ### Species and environmental variables editors
 We are working on it. Check it back soon.
 
