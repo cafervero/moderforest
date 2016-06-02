@@ -13,6 +13,9 @@ We are working on it. Check it back soon.
 ### LICENSE
 This project is published under GPLv3 license. Learn more in `LICENSE` file.
 
+### Spelling
+We know ModERFoRest has a <stroke>weird</stroke> tricky spelling. We have created a script to fix before you commit. Check it at `git-hooks/pre-commit`. Feel free to use it.
+
 ## Testing
 
 How to test the project. We're working still on this section. Check it back soon.

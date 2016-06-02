@@ -1,0 +1,11 @@
+#!/bin/sh
+#
+# This hooks fix the spellign for any ModERFoRest reference, ignoring
+# .cpp and .h files for safety reasons.
+#
+# To enable it you have to copy it to the `.git/hooks` folder
+# cp git-hooks/pre-commit .git/hook/
+
+find . -path ./.git -prune -o -type f -not -name *.cpp -not -name *.h -print0 | xargs -0 sed -i 's/moderforest/ModERFoRest/ig'
+
+find . -path ./.git -prune -o -type f -not -name *.cpp -not -name *.h -print0 | xargs -0 git add
