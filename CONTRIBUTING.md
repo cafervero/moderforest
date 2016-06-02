@@ -4,7 +4,8 @@ In this document you will find some ideas and guidelines for contributing to Mod
 
 ## Some links
 
-[bugs](http://github.com/cafervero/ModERFoRest/issues)  
+* [bugs](http://github.com/cafervero/ModERFoRest/issues)  
+* [chat room in gitter](https://gitter.im/cafervero/ModERFoRest)  
 
 ## Before you get started
 ### Code of Conduct
