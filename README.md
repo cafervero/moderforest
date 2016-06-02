@@ -3,7 +3,7 @@
 
 ModERFoRest is composed by three modules <em>(SDM: Species Distribution Modeling; FSR: Forest Stand Resemblance; SSER: Species Suitability for Ecosystem Restoration)</em> and one main core which contains the algorithms used in the different modules. The program also has a small selection of tools. Actually, an environmental variables editor, a species editor and an edhapic variables calculator are available, but it is planned to add a calculator of hydrological datasets and comparisons of environmental niches in comming releases. In the medium term we will use <a href="http://www.gdal.org/">GDAL</a> as well.
 
-ModERFoRest uses Qt C++ libraries in order to be platform agnostic. Nevertheless, only project files for GNU/Linux and MS Windows are available. If you are a Mac OS developer and are interested in forest repopulation, please take a look at [CONTRIBUTING](CONTRIBUTIN.md) file and join us!
+ModERFoRest uses Qt C++ libraries in order to be platform agnostic. Nevertheless, only project files for GNU/Linux and MS Windows are available. If you are a Mac OS developer and are interested in forest repopulation, please take a look at [CONTRIBUTING](CONTRIBUTING.md) file and join us!
 
 ## ModERFoRest modules
 ### SDM : Species Distribution Modeling
@@ -30,7 +30,7 @@ We are working on it. Check it back soon.
 ### Species and environmental variables editors
 We are working on it. Check it back soon.
 
-### Edhapic variables calculator
+### Edaphic variables calculator
 This tool allows calculation of soil variables for each profile from data obtained by horizons. It also allows the calculation of these variables in surface, varying the depth considered superficial.
 
 
